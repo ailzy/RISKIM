@@ -1,0 +1,1 @@
+python backtest.py && cat bk.log | python display.py
