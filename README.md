@@ -26,5 +26,5 @@
 
 2. 多因子模型
 
-![Markdown](https://github.com/ailzy/riskim/blob/master/algoexplain.pdf)
+![Markdown](https://github.com/ailzy/riskim/blob/master/tutorial/algoexplain.png)
 
