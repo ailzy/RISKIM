@@ -26,5 +26,5 @@
 
 2. 多因子模型
 
-![Markdown](algoexplain.pdf)
+![Markdown](riskim/algoexplain.pdf)
 
